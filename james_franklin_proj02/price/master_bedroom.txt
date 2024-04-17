@@ -1,0 +1,7 @@
+Bedroom
+Master Bedroom
+20.0
+18.0
+72
+True
+True

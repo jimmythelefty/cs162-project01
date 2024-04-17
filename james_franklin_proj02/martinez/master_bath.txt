@@ -1,0 +1,14 @@
+Bathroom
+Master Bath
+10.0
+7.0
+72
+False
+False
+False
+False
+False
+False
+50
+50
+50

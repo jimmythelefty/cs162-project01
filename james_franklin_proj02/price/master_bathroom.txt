@@ -1,0 +1,14 @@
+Bathroom
+Master Bathroom
+12.0
+10.0
+72
+True
+True
+True
+True
+True
+True
+50
+50
+50
